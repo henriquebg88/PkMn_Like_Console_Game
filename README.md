@@ -3,4 +3,4 @@ Pokemon based game - Console only
 
 The monsters fight automatically. Just run "dotnet run"
 
-Game in progress.
+Game in progress, made for practicing c#.
