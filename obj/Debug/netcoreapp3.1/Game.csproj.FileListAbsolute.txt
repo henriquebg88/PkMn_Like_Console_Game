@@ -1,0 +1,13 @@
+/home/henrique/Documents/C#/Softwares/Game/bin/Debug/netcoreapp3.1/Game
+/home/henrique/Documents/C#/Softwares/Game/bin/Debug/netcoreapp3.1/Game.deps.json
+/home/henrique/Documents/C#/Softwares/Game/bin/Debug/netcoreapp3.1/Game.runtimeconfig.json
+/home/henrique/Documents/C#/Softwares/Game/bin/Debug/netcoreapp3.1/Game.runtimeconfig.dev.json
+/home/henrique/Documents/C#/Softwares/Game/bin/Debug/netcoreapp3.1/Game.dll
+/home/henrique/Documents/C#/Softwares/Game/bin/Debug/netcoreapp3.1/Game.pdb
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.csprojAssemblyReference.cache
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.csproj.CoreCompileInputs.cache
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.AssemblyInfoInputs.cache
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.AssemblyInfo.cs
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.dll
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.pdb
+/home/henrique/Documents/C#/Softwares/Game/obj/Debug/netcoreapp3.1/Game.genruntimeconfig.cache
